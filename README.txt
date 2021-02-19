@@ -23,4 +23,4 @@ Step 7: In step 7 we are doing several activities. We are first getting a subset
 
 Step 8 : We are creating a text version of the final5 dataframe 
 
-The appropriate packages have been installed wherever required  
+The appropriate packages have been installed wherever required.  
