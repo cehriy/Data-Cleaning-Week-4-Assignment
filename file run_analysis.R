@@ -1,4 +1,3 @@
-
 # Step 1: Read all the relavant files
 strain <- read.table(file="subject_train.txt")
 head(strain)
@@ -98,4 +97,3 @@ head(final5)
 
 # Step 8: Writing the dataframe to a text file:
 write.table(final5, file = "Dataforchatper3week4.txt", row.names = FALSE)
-
